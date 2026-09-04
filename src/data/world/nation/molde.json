@@ -545,6 +545,23 @@
             ]
         },
         {
+            "id": "problemas-contradicoes",
+            "icone": "💀",
+            "titulo": "Problemas e Contradições",
+            "subsecoes": [
+                {
+                    "id": "desigualdades-sociais",
+                    "titulo": "Desigualdades sociais",
+                    "blocos": [
+                        {
+                            "tipo": "texto",
+                            "conteudo": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "geografia-territorio",
             "icone": "🗺️",
             "titulo": "Geografia e Território",
@@ -2219,3 +2236,4 @@
         ]
     }
 }
+
